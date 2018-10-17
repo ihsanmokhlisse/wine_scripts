@@ -1,0 +1,14 @@
+CSMT_DISABLE=0
+DXVK=1
+WINDOWED=0
+WINDOW_RES=800x600
+USEPULSE=0
+FIXRES=1
+SYSWINE=0
+WINVER=win7
+WINEARCH=win64
+
+export WINEESYNC=1
+export PBA_DISABLE=1
+
+# You can also put custom variables in this file

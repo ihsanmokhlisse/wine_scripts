@@ -1,0 +1,2 @@
+users/--REPLACE_WITH_USERNAME--/Documents_Multilocale/JoWooD/NFH2 (пример для dir_1)
+windows/Fonts (пример для dir_2)
